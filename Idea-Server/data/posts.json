@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Paradoxurus hermaphroditus",
+    "content": "Laceration with foreign body of left lesser toe(s) without damage to nail",
+    "imgUrl": "http://dummyimage.com/172x100.png/cc0000/ffffff",
+    "categoryId": 1,
+    "authorId": 5,
+    "status": "Active"
+  },
+  {
+    "title": "Cynictis penicillata",
+    "content": "Traumatic rupture of collateral ligament of left index finger at metacarpophalangeal and interphalangeal joint, subsequent encounter",
+    "imgUrl": "http://dummyimage.com/234x100.png/ff4444/ffffff",
+    "categoryId": 2,
+    "authorId": 5,
+    "status": "Active"
+  },
+  {
+    "title": "Nesomimus trifasciatus",
+    "content": "Legal intervention involving unspecified gas",
+    "imgUrl": "http://dummyimage.com/199x100.png/ff4444/ffffff",
+    "categoryId": 1,
+    "authorId": 2,
+    "status": "Active"
+  },
+  {
+    "title": "Gopherus agassizii",
+    "content": "Traumatic rupture of volar plate of other finger at metacarpophalangeal and interphalangeal joint",
+    "imgUrl": "http://dummyimage.com/165x100.png/dddddd/000000",
+    "categoryId": 6,
+    "authorId": 2,
+    "status": "Active"
+  },
+  {
+    "title": "Varanus sp.",
+    "content": "Other injury of flexor muscle, fascia and tendon of left little finger at wrist and hand level, initial encounter",
+    "imgUrl": "http://dummyimage.com/186x100.png/dddddd/000000",
+    "categoryId": 2,
+    "authorId": 4,
+    "status": "Active"
+  },
+  {
+    "title": "Cygnus atratus",
+    "content": "Nursemaid's elbow, unspecified elbow, initial encounter",
+    "imgUrl": "http://dummyimage.com/175x100.png/5fa2dd/ffffff",
+    "categoryId": 10,
+    "authorId": 3,
+    "status": "Active"
+  },
+  {
+    "title": "Paraxerus cepapi",
+    "content": "Other injury of bronchus, bilateral, initial encounter",
+    "imgUrl": "http://dummyimage.com/229x100.png/cc0000/ffffff",
+    "categoryId": 8,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "title": "Alopex lagopus",
+    "content": "Unspecified complication of internal prosthetic device, implant and graft",
+    "imgUrl": "http://dummyimage.com/141x100.png/cc0000/ffffff",
+    "categoryId": 3,
+    "authorId": 2,
+    "status": "Active"
+  },
+  {
+    "title": "Macropus eugenii",
+    "content": "Torus fracture of upper end of left humerus, initial encounter for closed fracture",
+    "imgUrl": "http://dummyimage.com/168x100.png/ff4444/ffffff",
+    "categoryId": 1,
+    "authorId": 4,
+    "status": "Active"
+  },
+  {
+    "title": "Lasiorhinus latifrons",
+    "content": "Unspecified disseminated chorioretinal inflammation, bilateral",
+    "imgUrl": "http://dummyimage.com/246x100.png/ff4444/ffffff",
+    "categoryId": 9,
+    "authorId": 4,
+    "status": "Active"
+  },
+  {
+    "title": "Ictonyx striatus",
+    "content": "Other specified injury of intercostal blood vessels, right side, initial encounter",
+    "imgUrl": "http://dummyimage.com/197x100.png/dddddd/000000",
+    "categoryId": 1,
+    "authorId": 2,
+    "status": "Active"
+  },
+  {
+    "title": "Castor fiber",
+    "content": "Complete traumatic amputation at level between knee and ankle, unspecified lower leg, sequela",
+    "imgUrl": "http://dummyimage.com/155x100.png/ff4444/ffffff",
+    "categoryId": 8,
+    "authorId": 3,
+    "status": "Active"
+  }
+]

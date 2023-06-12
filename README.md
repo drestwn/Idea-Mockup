@@ -46,4 +46,4 @@ npm run dev
 npx nodemon app.js
 ```
 
-for the server you can check through router
+for the server you can readme.md file on the idea-server folder

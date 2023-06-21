@@ -27,7 +27,7 @@ export default {
 <template>
   <div class="navbar bg-base-100">
     <div class="flex-1">
-      <a class="btn btn-ghost normal-case text-xl">P00ST</a>
+      <a class="btn btn-ghost normal-case text-xl">IDEA</a>
     </div>
     <div class="flex-none">
       <!-- <div class="dropdown dropdown-end">
@@ -44,7 +44,7 @@ export default {
 
       <ul v-if="isLoggedin === false" class="menu menu-horizontal px-1">
         <RouterLink to="/regisPage">
-          <li><a>SignUp</a></li>
+          <li><a>Sign Up</a></li>
         </RouterLink>
         <RouterLink to="/loginPage">
           <li><a>Login</a></li>
